@@ -52,3 +52,8 @@ a:hover {
     color: #ff6600; /* Cor laranja ao passar o mouse */
     text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.3); /* Efeito de brilho no link */
 }
+
+ul, ol {
+    margin-left: 20px;
+    padding-left: 10px;
+}
