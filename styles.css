@@ -6,3 +6,10 @@ body {
     padding: 0;
     line-height: 1.6; 
 }
+h1, h2, h3, h4, h5, h6 {
+    color: white; /* Títulos em branco */
+    font-weight: bold; /* Títulos em negrito */
+    text-transform: uppercase; /* Texto em maiúsculas */
+    letter-spacing: 2px; /* Espaçamento entre letras */
+    margin-top: 20px;
+}
